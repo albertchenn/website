@@ -8,7 +8,7 @@ navbar_entries:
 
 project_entries:
   - title: Hand Gesture Racing
-    url: car-racing
+    url: hand-gesture-racing
     desc: Racing Simulator with Computer Vision
 
   - title: Snow Plow
